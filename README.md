@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Javad Ismayilzada!
 
-🎓 I'm a 3rd-year undergraduate student at **KAIST**, double majoring in **Computer Science** and **Mathematics**.  
+🎓 I'm a 4th-year undergraduate student at **KAIST**, double majoring in **Computer Science** and **Mathematics**.  
 🌍 Recently returned from an exchange semester at **Technical University of Berlin**.  
 🧠 My interests lie in **AI research**, **Computer Vision**, and **Natural Language Processing**.
 
@@ -41,9 +41,9 @@
 
 ---
 
-## 🚀 Looking for a Summer 2025 Internship
+## 🚀 Looking for a Winter 2025 Internship
 
-I’m actively exploring internship opportunities for Summer 2025 in a wide range of environments — from research labs to startups, corporates, and tech companies of any size.
+I’m actively exploring internship opportunities for Winter 2025 in a wide range of environments — from research labs to startups, corporates, and tech companies of any size.
 I'm especially excited about roles involving:
 
 - AI/ML, NLP, or Computer Vision
