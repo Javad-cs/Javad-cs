@@ -8,6 +8,11 @@
 
 ## 🔧 What I’m Working On
 
+- **Generative AI**
+  Joined the Google AI academy cohort at Google Startup Campus and worked on generative workflow development:
+  → Designed and deployed 15+ production-ready multimodal workflows, including 3D-aware character generation with controllable rotation and lighting, 2D image-to-3D asset transformations, inpainting, restoration, upscaling, and consistent product style generation.
+  → Integrated workflows into product services using ComfyUI, Cog, FastAPI, and model-orchestration layers, deployed at scale for 15,000+ users, and optimized footprint and latency on cloud GPU platforms (NHN, Lambda Labs, Replicate, Fal.ai), prioritizing reliability and real-world performance.
+
 - **Cultural Evaluation of Multimodal LLMs**  
   Co-authored a paper accepted to **NAACL 2025**:  
   _“WHEN TOM EATS KIMCHI: Evaluating Cultural Awareness of MLLMs in Mixed-Cultural Contexts”_  
