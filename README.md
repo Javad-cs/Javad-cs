@@ -9,7 +9,7 @@
 ## 🔧 What I’m Working On
 
 - **Generative AI & Product Workflows**
-Worked in the Google AI Academy cohort at Google Startup Campus, building generative features and 3D-aware content pipelines.
+  Worked in the Google AI Academy cohort at Google Startup Campus, building generative features and 3D-aware content pipelines.
 → Designed and deployed 15+ multimodal workflows that handle 3D character rotation, light-angle control, 2D-to-3D asset rendering, inpainting, restoration, and consistent product style generation.
 → Integrated workflows into live services using ComfyUI, Cog, and FastAPI orchestration layers.
 → Scaled deployments to 15,000+ users with optimized latency and memory footprint.
